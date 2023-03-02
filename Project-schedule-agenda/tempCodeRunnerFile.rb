@@ -1,7 +1,3 @@
-# Atribuições: Adicionar, editar e remover contatos;
-# Contatos terão as seguintes informações: nome e telefone;
-# Podemos ver todos os contatos registrados ou somente um..
-
 agenda = [
   {nome: "Junior", telefone: "999932514"},
   {nome: "Ceci", telefone: "9822332514"}
